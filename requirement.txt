@@ -1,7 +1,7 @@
 streamlit
 pandas
 tensorflow
-cv2
+openCV
 matplotlib
 keras
 PIL
