@@ -1,0 +1,10 @@
+streamlit
+pandas
+tensorflow
+cv2
+matplotlib
+keras
+PIL
+numpy
+imageio
+base64
